@@ -1,0 +1,11 @@
+3=ElementoA,0-2;ElementoB,2-4;ElementoC,4-6
+12=ElementoA,0-6;ElementoB,6-12
+22=ElementoA,0-1;ElementoB,1-2;ElementoC,2-3;ElementoD,3-4;ElementoE,4-5;ElementoF,5-6;ElementoG,6-7;ElementoH,7-8;ElementoI,8-9;ElementoJ,9-10;ElementoL,10-11;ElementoM,11-12
+31=ElementoA,0-1;ElementoB,1-7;ElementoC,7-11;ElementoD,11-22;ElementoE,22-23
+0002=ElementoA,0-3
+0146=ElementoA,0-3;ElementoB,3-6;ElementoC,6-9;ElementoD,9-21,Y;ElementoE,21-24;ElementoF,24-36,Y
+0148=ElementoA,0-3;ElementoB,3-4
+0158=ElementoA,0-3;ElementoB,3-4;ElementoC,4-10;ElementoD,10-12;ElementoE,12-18;ElementoF,18-20;ElementoG,20-21;ElementoH,21-24;ElementoI,24-25;ElementoJ,25-26;ElementoL,26-27;ElementoM,27-28;ElementoN,28-29
+0159=ElementoA,0-66
+0149=ElementA,0-3;ElementB,3-6
+0195=ElementoA,0-3;ElementoB,3-5;ElementoC,5-8;ElementoD,8-9;ElementoE,9-10;ElementoF,10-11;ElementoG,11-23;ElementoH,23-27
